@@ -11,7 +11,7 @@ This repository contains various **MicroPython** codes for the **Raspberry Pi Pi
 
 ## 🎥 Watch the Tutorials
 Check out my **YouTube channel** for step-by-step guides on how to implement these projects!  
-🔗 [YouTube Channel](#) *(Replace with your actual link)*
+🔗 [YouTube Channel]([#](https://www.youtube.com/channel/UCoss8fVeD9C1OdvUK_cz5mw)) *(Replace with your actual link)*
 
 ## 🛠️ Technologies Used
 - **MicroPython** 🐍
