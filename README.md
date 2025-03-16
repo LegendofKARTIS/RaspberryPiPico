@@ -32,5 +32,4 @@ Feel free to **fork, modify, or suggest improvements**! Pull requests are welcom
 ---
 
 🔔 **Stay Updated**  
-📺 Subscribe to my YouTube: [YouTube Channel](#) *(Replace with your actual link)*  
-🐦 Follow me on Twitter: [@YourHandle](#) *(Replace with your actual handle)*
+📺 Subscribe to my YouTube: [[YouTube Channel](https://www.youtube.com/channel/UCoss8fVeD9C1OdvUK_cz5mw)](#)
