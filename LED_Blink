@@ -1,3 +1,4 @@
+# Check out this Tutorial video on my channel: https://youtu.be/08o1DQNwnBU 
 from machine import Pin
 import utime
 # Define the Onboard LED (GP25)
